@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    font-family: Quicksand, 'Courier New', Courier, monospace;
+}
+
+input {
+    height: 50px;
+}
+
+#mySearchbtn {
+    width: 30%;
+}
+
+.card {
+    transition: all 0.16s;
+}
+
+.card:hover {
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
