@@ -11,6 +11,7 @@ const Nav = (props) => {
             <div className="container">
                 <form onSubmit={(e) => e.preventDefault()} className="my-5 d-flex" role="search">
                     <input
+                        style={{ fontSize: "large", fontWeight: "500" }}
                         className="form-control me-2"
                         placeholder="Search for movies"
                         value={props.Search}

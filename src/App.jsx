@@ -21,6 +21,7 @@ const App = () => {
     let request = await fetch(url);
     let response = await request.json();
     setMovies(response.Search);
+    console.log(movies);
   }
 
   useEffect(() => {
