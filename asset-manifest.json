@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieLand-React/static/css/main.254bc742.css",
+    "main.js": "/MovieLand-React/static/js/main.32ed42f4.js",
+    "static/js/787.8cac4b17.chunk.js": "/MovieLand-React/static/js/787.8cac4b17.chunk.js",
+    "index.html": "/MovieLand-React/index.html",
+    "main.254bc742.css.map": "/MovieLand-React/static/css/main.254bc742.css.map",
+    "main.32ed42f4.js.map": "/MovieLand-React/static/js/main.32ed42f4.js.map",
+    "787.8cac4b17.chunk.js.map": "/MovieLand-React/static/js/787.8cac4b17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254bc742.css",
+    "static/js/main.32ed42f4.js"
+  ]
+}
